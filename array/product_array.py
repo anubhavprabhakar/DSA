@@ -10,6 +10,9 @@ Memory may be a concern though, so try to limit your use of additional data stru
 > take input array in list input
 > store solutions in list results[] and return it
 
+> this solution uses brute force
+> time complexity: O(n^2)
+
 '''
 
 # @param {List [int]} input
