@@ -1,4 +1,6 @@
-'''Write a function walk_matrix that takes an r x c 2D array
+'''link to the problem: https://skilled.dev/course/walk-a-matrix
+   Problem:
+   Write a function walk_matrix that takes an r x c 2D array
    and returns a 1D array of all the elements in the matrix
    printed in clockwise order.
    
