@@ -1,8 +1,10 @@
 /** link to problem: https://skilled.dev/course/best-time-to-buy-and-sell-stock
 
- * @param {number[]} prices
- * @return {number}
- */
+This is the brute force solution with time complexity of O(n^2)
+
+* @param {number[]} prices
+* @return {number}
+*/
 const getMaxProfit = (prices) => {
   var max_profit = 0
   
